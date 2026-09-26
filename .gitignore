@@ -1,2 +1,4 @@
 **/desktop.ini
 /Property.gsheet
+.venv
+nul
